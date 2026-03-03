@@ -1,9 +1,9 @@
 # Результаты автоматической проверки
 
-- **Дата:** 2026-03-03 12:18:06
+- **Дата:** 2026-03-03 12:22:54
 - **Студент:** Шакиров Роберт
 - **Группа:** КТСО-13-24
-- **Лабораторная работа:** 2
+- **Лабораторная работа:** 1
 - **Репозиторий:** https://github.com/RAMMLS/lab1.git
 - **Ветка:** main
 - **Всего тестов:** 1
@@ -12,8 +12,11 @@
 
 ## Детали тестов
 
-### test_factorial.sh – НЕ ПРОЙДЕН (0.51 с)
+### test_sum.sh – НЕ ПРОЙДЕН (1.92 с)
 ```
-Файл factorial.py не найден
+Unable to find image 'lab_docker:latest' locally
+docker: Error response from daemon: pull access denied for lab_docker, repository does not exist or may require 'docker login': denied: requested access to the resource is denied
+
+Run 'docker run --help' for more information
 ```
 
